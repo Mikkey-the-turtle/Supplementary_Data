@@ -128,7 +128,7 @@ W-------------ELYFDGSCN--SK-----------G---AGVGIVIFK---NGT----------------PEILK--
 ----------------WFDGGCR--GN--P-----G--P---SGAGAVIFND--SE-----------------KELYS----------------------------------------------------GYKYLGE-------G-KTNNEA--EYESV---ILGLKAAAKL-------------SITQLVVKG-DSMLVIQQ--------------MM---------------------------GKWRV-----------SAPKL-VGLHRQASEV-------VKQ-HQ------LK-CTW-HH-VPRK------------------LNVR------ADLLAN-------------
 >Selaginella_moellendorffii_XP_002990328
 ----------------AYDGASK--GN--P-----G--K---AGAGALLRNP--KG------------------SV-----------------------------------------------------IEKLYMGL----G--T-ATNNVA--EYEAL---ILGLQAALDR-------------NVTSIQVFG-DSNLVCKQ--------------VA---------------------------GEWAV-----------RHEGL-RALHAQVQAL-------SMQ-FT-------T-FSI-HH-VDRE------------------MNTE------ADALAN-------------
->Azfi_s0114_g046020
+>Azolla_filiculoides_individual_aRH
 -----------------FDGASK--GN--P-----G--K---AGAGALLKHP--DG------------------SV-----------------------------------------------------ICELTKGV----G--V-TTCNFA--EYQAL---IIGLQAALDQ-------------GIYHIEAQG-DSKLVCKQ--------------VM---------------------------GQWKL-----------RSENL-AASFAEVMEL-------KKK-FH-------Y-FSI-KH-VYRE------------------FNSA------ADKLAN-------------
 >Physcomitrella_patens_XP_001777308
 ----------------EYDGASK--GN--P-----G--P---AGAGALVRGP--DG------------------SV-----------------------------------------------------FCELREGL----G--S-VTNNVA--EYRAF---ILGLKGALDR-------------GIYRVRVQG-DSKLVCQQ--------------VL---------------------------GKWKV-----------NDEGL-LPLWKEAQML-------MLN-FR-------E-ISV-KH-V--R------------------FNPS------ADQLAN-------------
@@ -138,13 +138,13 @@ W-------------ELYFDGSCN--SK-----------G---AGVGIVIFK---NGT----------------PEILK--
 ----------------HFDGASK--GN--P-----G--K---AGAGAVLMTE--DG------------------RV-----------------------------------------------------ISRLREGL----G--I-VTNNVA--EYRGL---ILGLRYAIRH-------------GFKKIIVYG-DSQLVCYQ--------------VK---------------------------GTWQT-----------KNQNM-MELCKEVRKL-------KEN-FV-------S-FEI-NH-IRRE------------------WNAE------ADRQAN-------------
 >Arabidopsis_thaliana_AAF24611
 ----------------EFDGASK--GN--P-----G--K---AGAGAVLRAS--DN------------------SV-----------------------------------------------------LFYLREGV----G--N-ATNNVA--EYRAL---LLGLRSALDK-------------GFKNVHVLG-DSMLVCMQ--------------VQ---------------------------GAWKT-----------NHPKM-AELCKQAKEL-------MNS-FK-------T-FDI-KH-IARE------------------KNSE------ADKQAN-------------
->Pseudotsuga_men_RNaseH_I
+>Pseudotsuga_men_individual_aRH
 -------------------------------------------GVGVVLGYP--YG------------------LE-----------------------------------------------------AYTLKEGV----G--V-VTNNVA--EYQAL---IHGLKFCMDN-------------GIDRIHVRG-DSNIVCMQ--------------IQ---------------------------DKWKR-----------KNENI-VGLRKEVKEL-------KEK-FR-------G-FHI-DH-VLRE------------------FNSK------AD-----------------
->Anthoceros_aan_RNaseH_I_damaged
+>Anthoceros_anfustus_individual_aRH
 -------------YTLEYDGAAK--GN--P-----G--P---AGAGALLKDP--SG------------------MVV-----SVDHRSSVLEH-----QXLXXPGSGLAH-----------------GQIFEQSLGL----G--R-TTNNVA--EYRGL---IAGMRAALER-------------GVSHLTVKG-DSDLVCKQ--------------VLYRR-------------------------------------------------------------------------------KV-AH----------------------------------------------------
->Anthoceros_pun_RNaseH_I_damaged
+>Anthoceros_punctatus_individual_aRH
 -------------YTLEYDGAAK--GN--P-----G--P---AGAGALLKDP--SG------------------MVV-----SVDYRSPVLEH-----QXLXXPGSGLAH-----------------GQIFEQSLGL----G--K-TTNNVA--EYWGL---IAGMRAALER-------------GVTHLTVKG-DSDLVCKQ--------------VLYRRKXLILSVCLLGESDRHFAALFQVNGEWKV-----------NKPHL-AVLCKEAQRL-------KQK-FA-------K-CKI-VH-V--------------------------------------------------
->Selaginella_moe_RNaseH_I
+>Selaginella_moellendorfii_individual_aRH
 -------------YILQYDGASK--GN--P-----G--R---SGAGALLRTA--KG------------------SVVCK-CLCVWVYMYVCMY-----MYVXWDMWPL--------------------QVEKVYVGL----G--I-TTNNVA--EYEGL---ILGLKAALKR-------------NITRIEVRG-DSNLISKQ--------------VC---------------------------------------------------------TL-------RPS----------------------------------------------------------------------
 >Natrinema_pellirubrum_WP_006182114
 ----------------YFDGGSR--GN--P-----G--P---AAIGWVIVTG--D------------------GIVAE----------------------------------------------------DGETIG--------T-ATNNQA--EYEAL---IAGLEAARDY-------------GYDEVHVRG-DSELIVKQ--------------VR---------------------------GEYDT-----------NDPDL-RENRVTVHEL-------LRA-FD-------E-WTL-EY-VPRE------------------VNDR------ADGLVN-------------
@@ -154,17 +154,17 @@ W-------------ELYFDGSCN--SK-----------G---AGVGIVIFK---NGT----------------PEILK--
 ----------------YVDGASR--GN--P-----G--P---AAIGWVILTG--DG-----------------GIVTE----------------------------------------------------GGKRIG--------S-TTNNRA--EYEAL---IHALEIAADY-------------GFDSVEVRS-DSELAVRQ--------------VR---------------------------GEWDT-----------NDPDL-RERRVRVREL-------FRE-FD-------D-WSI-EH-VPRE------------------INER------ADALAN-------------
 >Halorubrum_lacusprofundi_WP_012659552
 ----------------YFDGASR--GN--P-----G--P---GAVGWCLVTA--D------------------GIVAE----------------------------------------------------GGERIG--------R-VTNNQA--EYAAL---IRALEAADEY-------------DFDEIDVRG-DSQLIVKQ--------------VR---------------------------GEWNA-----------NDPEL-RERRVRVREL-------LER-FD-------R-WSI-GH-VPRE------------------INER------ADDLAN-------------
->Sphagneum_fallax_RNaseH_I
+>Sphagneum_fallax_individual_aRH
 ---------------------SK--RN--P-----G--R---AGAGALVRHP--DG------------------SVVSKFFLSLSTIKKIWQQRREKGQGILWPMHSVFFSAMGSFCHPTHHCSFVCTQVCELKEGL----G--I-ATNNVA--EYRAF---ILGLRGALTR-------------GIYRVRVQG-DSKLVCEQ--------------V--------------------------------------------------------------------------------------------------------------------------------------------
->Sequoia_sempervirens_RNaseH_I
+>Sequoia_sempervirens_individual_aRH
 --------------KLNFDGASR--GN--P-----G--P---AGAGSLIRNX--EG-----------------------------------------------------------------------HIIGRRAMSL----G--V-NTNNFA--EFKAL---HIGLELCKEM-------------NLNKIEIVG-DSAIVVNA--------------V----------------------------RLGQT-----------PNWKL-NTILERVIEI-------LNT-CE-------A-FTI-NH-AYRE------------------ANXD------ADGLANLAA----------
->Sequoiadendron_giganteum_RNaseH_I
+>Sequoiadendron_giganteum_individual_aRH
 -------------WKLNFDGAAK--GN--P-----G--K---AGAGCIIRNM--EG-----------------------------------------------------------------------QGVWAASKNL----G--S-YTNNIA--ELEAL---ALSLEVCIQK-------------GIESVEIEG-DSQICIQA--------------I----------------------------ISGKT-----------LNWKL-DIWIEAIKSL-------LGK-LN-------N-YTL-SH-VYRE------------------ANKA------ADLLA--------------
->Abies_alba_RNaseH_I
+>Abies_alba_individual_aRH
 -------------LKLNFDGASK--GN--P-----G--L---VGVGGVFRNK--EG-----------------------------------------------------------------------EIFHIYAEGI----G--L-TSNNVA--ELQAL---ISGLEIAQRN-------------GWNMLVIEG-DSQIIINL--------------VK--------------------KLMHGIPLSKLS-----------HNWRL-EWLTEQLREK-------VQK-ID-------T-IQA-SH-IRRT------------------GNKM------ADRLA--------------
->Pinus_taeda_RNaseH_I_relate_to_bacteria
+>Pinus_taeda_individual_aRH
 ---------------IFFDGAPK--GN--P-----G--P---SGVGGLIYSP--DG-----------------------------------------------------------------------ISRDTFYWGL----G--L-KTNNQA--ELLSL---LKACQIAREK-------------GIKDIQVFG-DSEILIKK--------------LN---------------------------TAEQF-----------RNAGL-NRTFERLKRV-------LAA-FA-------S-FKI-YH-ILRS------------------SNND------ADLLANKGSAL-------D
->Pinus_taeda_RNaseH_I_relate_to_Citrus_sinensis
+>Pinus_taeda_individual_aRH
 ----------------FFDGASK--GN--P-----G--V---AGSGGVLLSP--SS-----------------------------------------------------------------------STEMRFHWGL----G--I-ETNNRA--EALAL---WQGLNLANSR-------------NIPSLSVFG-DSRLIIQA--------------LA---------------------------TQKTL-----------HQVQL-APIIKKIRLL-------LPK-FK-------K-ISF-FH-ILRN------------------LNSQ------ADMEANLGSQ---------
 >Afil.fa_ID106 (112); structure 1; LTR%den: 99.844; LTRlen: 641
 --------------TLFFDGAYR--KA--T-----NL-----AVGGFILRNP--NG------------------EVVHA---------------------------------------------------EGISLPN-------V-NTNNEA--EYATL---CFALRLCKAR-------------EIKRLIIKG-DSLLIVKQ--------------IQ---------------------------GLWKC-----------QSDGL-RGFYKEALSL-------MKS-FT-------K-VQV-KH-VSRV------------------DNKE------ADALAQ-------------
@@ -214,7 +214,7 @@ W-------------ELYFDGSCN--SK-----------G---AGVGIVIFK---NGT----------------PEILK--
 ----------------SFDGAAK--LK--S-----S--Q---GSAGFVLWKL--PE-----------------WDIAK----------------------------------------------------ARGVHLE-------N-VTVNEV--EYHGM---LSGLQLAINR-------------QIKEIAVVS-DSRIAIQQ--------------AQ---------------------------GLINC-----------NTVNL-QRLLRRYEEL-------ATR-FS-------K-IQL-IH-VKRE------------------FNSS------ADYLT--------------
 >Aalb_0.fa_ID9000 (20523); structure 2; LTR%den: 90.582; LTRlen: 361
 W-------------SIRFEGAVN--KE-----------G---AGVGVXINPP--EGE-----------------------------------------------------------------------GMFHSFKLA------FQ-CTNNEA--KCEAL---TLGLNMLRDK-------------EVKIITVQG-DLELVINQ--------------IK---------------------------GTCLA-----------KHPRM-RADRNVVLDL-------LES-FSKF-----D-FSL----IPRE------------------WNVI------ANSLASSA-----------
->Cycas_panzhihuaensis_RNaseH_I
+>Cycas_panzhihuaensis_individual_aRH
 ---------------MHFERVAK--GN--P-----S--K---SRVGGFIVEL--DG------------------QILTPF-------------------------------TMG----P----------------------S--L-NTNNYV--ELMAC---IKGLQLALQH-------------GMHKLIVRE-DSNLVIRS--------------AY---------------------------GKWMV-----------TNIHL-MALLWQVKQL-------MHR-FD-------N-IEM-EH-VFHR------------------NNTK------ADELTNM------------
 >Archon2_SDicl
 -----------------SDGANR--GG-------------ETSGHGFCMWDS--RG-----------------RTLLE----------------------------------AGGGSGP----------------------G--T-ATVNQQ--EAAGL---EAALRAARGR-------------GSRTVVAFS-DSELICNL--------------VH---------------------------RVFVP-----------KEEGL-RKRISTITQI-------LSG-FD-------A-WVL-YH-VPRE------------------YNGA------ADFAAN-------------

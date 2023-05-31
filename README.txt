@@ -11,6 +11,11 @@ The folder contains the following FASTA-formatted files
   3) Supplementary_Data_for_Figure2_RH_and_aRH_alignment.fasta [MULTIPLE SEQUENCE ALIGNMENT, AMINO ACID ALPHABET]
   4) Supplementary_Data_for_FigureS2_INT_alignment.fasta [MULTIPLE SEQUENCE ALIGNMENT, AMINO ACID ALPHABET]
   5) Supplementary_Data_for_FigureS2_RH_alignment.fasta [MULTIPLE SEQUENCE ALIGNMENT, AMINO ACID ALPHABET]
+  6) Supplementary_Data_for_Figure1_RT_treefile.nwk [PHYLOGENETIC TREE FILE, NEWICK]
+  7) Supplementary_Data_for_FigureS2_INT_treefile.nwk [PHYLOGENETIC TREE FILE, NEWICK]
+  8) Supplementary_Data_for_FigureS2_RH_treefile.nwk [PHYLOGENETIC TREE FILE, NEWICK]
+  9) Supplementary_Data_for_Figure2_RH_and_aRH_treefile.nwk [PHYLOGENETIC TREE FILE, NEWICK]
+  
 
 [ABBREVIATIONS]
   LTR-RTs - LTR retrotransposons
@@ -34,5 +39,18 @@ The folder contains the following FASTA-formatted files
   
   5) Supplementary_Data_for_FigureS2_RH_alignment.fasta
   Multiple amino acid sequence alignment of RH domain from diverse LTR-RTs representatives used for the phylogenetic reconstruction in Supplementary Fig. S2. Description of the sequences' headers as in Supplementary Table S3. 
+  
+  6) Supplementary_Data_for_Figure1_RT_treefile.nwk [PHYLOGENETIC TREE FILE, NEWICK]
+   Phylogenetic tree file built from Supplementary_Data_for_Figure1_RT_alignment.fasta file.
+  
+  7) Supplementary_Data_for_FigureS2_INT_treefile.nwk [PHYLOGENETIC TREE FILE, NEWICK]
+   Phylogenetic tree file built from Supplementary_Data_for_FigureS2_INT_alignment.fasta.
+  
+  8) Supplementary_Data_for_FigureS2_RH_treefile.nwk [PHYLOGENETIC TREE FILE, NEWICK]
+   Phylogenetic tree file built from Supplementary_Data_for_FigureS2_RH_alignment.fasta.
+  
+  9) Supplementary_Data_for_Figure2_RH_and_aRH_treefile.nwk [PHYLOGENETIC TREE FILE, NEWICK]
+   Phylogenetic tree file built from Supplementary_Data_for_Figure2_RH_and_aRH_alignment.fasta
+  
 
 
